@@ -1,8 +1,8 @@
 # Hi, I'm Mourede Otchere 👋
 
-**Aspiring Machine Learning Engineer** | Computer Science @ The University of Texas at Dallas (May 2027) | Break Through Tech AI Fellow
+ Computer Science @ The University of Texas at Dallas  | Break Through Tech AI Fellow
 
-I build machine learning systems that are accurate, explainable and fair. Right now I'm on a Break Through Tech AI Studio team building a responsible AI recommender that matches newcomers to Miami neighborhoods, using recommendation ML, NLP and an MCP-backed LLM agent. I'm looking for **Machine Learning / AI Engineering internships for Summer 2027**.
+I build machine learning systems that are accurate, explainable and fair. Right now I'm on a Break Through Tech AI Studio team building a responsible AI recommender that matches newcomers to Miami neighborhoods, using recommendation ML, NLP and an MCP-backed LLM agent. 
 
 📫 **Email:** [fanel.otchere@gmail.com](mailto:fanel.otchere@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/mouredeo](https://www.linkedin.com/in/mouredeo)
